@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
     pathPrefix: '/docs',
-    siteUrl: 'https://hasura.io',
+    siteUrl: 'https://fukuyu8020.github.io/manual-test/',
     gaTrackingId: null,
     trailingSlash: false,
   },
